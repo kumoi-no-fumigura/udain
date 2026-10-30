@@ -1,0 +1,65 @@
+{
+ "work": "宇多院歌合",
+ "work_id": "sanshu-udain",
+ "repo": "kumoi-no-fumigura/udain",
+ "yomi": "うだいんうたあわせ",
+ "category": "歌合",
+ "description": null,
+ "editions": [
+  {
+   "pid": "1128193",
+   "title": "纂輯類聚歌合とその研究",
+   "editor": "堀部正二 編",
+   "series": "",
+   "publisher": "美術書院",
+   "year": 1945,
+   "pages": "p170-170",
+   "url": "https://dl.ndl.go.jp/pid/1128193"
+  }
+ ],
+ "status": "未校正（NDL 全文 OCR のまま。ルビ・柱・誤認識を含む）",
+ "license": {
+  "text": "CC0 1.0"
+ },
+ "translation": null,
+ "blocks": [
+  {
+   "id": "sanshu-udain-0001",
+   "pid": "1128193",
+   "pages": [
+    170
+   ],
+   "text": "(二)宇多院歌合題女郞花歌人宇多院歌合左のながらとへどをみなへしなのぬしとへどこたへぬはくちなしいぐさのいろとてかもし右(U)をみなへしをるてにかゝるしらつゆはちぐさの花のねたん。なみだか題早苗卯花歌人左戀郭公昌蒲修理大夫藤原顯季伊豫守藤原長實右兵衞佐藤原季通權中納言源重資右近權中將源雅定散位源行宗右宰相中將藤原信通伊賀守源家俊(以上加藤正治氏藏)",
+   "poems": [
+    "1"
+   ],
+   "lb": []
+  }
+ ],
+ "poems": [
+  {
+   "seq": "1",
+   "text": "をみなへしなのぬしとへどこたへぬはくちなしいぐさのいろとてかもし",
+   "kana": "",
+   "speaker": "",
+   "page": 170,
+   "pid": "1128193",
+   "form": "短歌",
+   "genre": ""
+  }
+ ],
+ "catalog": {
+  "work_id": "sanshu-udain",
+  "work": "宇多院歌合",
+  "yomi": "うだいんうたあわせ",
+  "category": "歌合",
+  "era": "",
+  "author": "",
+  "blocks": 1,
+  "chars": 175,
+  "poems": 1,
+  "editions": 1,
+  "updated": "2026-10-30",
+  "updated_at": "2026-10-30T01:36:00+09:00"
+ }
+}
