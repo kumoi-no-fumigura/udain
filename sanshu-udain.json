@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/udain",
  "yomi": "うだいんうたあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "歌合",
+  "era": "未詳",
+  "author": "主催 宇多院",
+  "desc": "宇多院の歌合のうち、「女郎花」の題の断簡。ここには一首しか残らず、続けて別の歌合の題と歌人の名を記した断片がある。"
+ },
  "editions": [
   {
    "pid": "1128193",
